@@ -87,6 +87,7 @@ body{
   .title11 h1{
     display: block;
     text-align: center;
+     font-size: 30px;
 }
 .first{
     margin-top: -50px;
